@@ -9,7 +9,7 @@ Utilizar das informações providas pela empresa para montar uma página a fim d
 
 Publico alvo: Clientes da empresa e usuários internos da Nimbus.<br>
 
-Sobre o cliente: Construtech focada na gestão de risco climático em canteiros de obras. Realizando previsão do tempo no local da obra e avaliando os riscos dessas condições no cronograma de execução, na perda de materiais e na segurança dos trabalhadores, tornando a decisão do gestor mais ágil e assertiva, o que gera redução de prejuízos e aumento de produtividade.<br>
+Sobre o cliente: Construtech focada na gestão de risco climático em canteiros de obras. Realizando previsão do tempo no local da obra e avaliando os riscos dessas condições no cronograma de execução, evitando a perda de materiais e auxiliando na segurança dos trabalhadores, tornando a decisão do gestor mais ágil e assertiva, o que gera redução de prejuízos e aumento de produtividade.<br>
 
 Motivo do projeto: Necessidade de um display mais enxuto e responsivo das informações recebidas dos Back-Ends via Endpoints (requisições GET com um corpo em formato JSON ou CSV e exportável para PDF e CSV).<br>
 
