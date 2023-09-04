@@ -17,7 +17,7 @@ Objetivo do projeto: Utilizar das informações providas pela empresa para monta
 
 Por que: Facilitar a visualização e o gerenciamento de requisições dos usuários no ecossistema da empresa.<br>
 
-Portabilidade: Sistemas Web responsivos e futuramente implementação mobile.<br>
+Portabilidade: Aplicação Web responsivos e futuramente implementação mobile.<br>
 (Sites responsivos são aqueles que adaptam o tamanho das suas páginas (alteração do layout) ao tamanho das telas que estão sendo exibidos, como as telas de celulares e tablets. Suas vantagens derivam da adaptação a qualquer ferramenta que os usuários estejam usando para facilitar a sua visualização.)<br>
 
 Quando: O projeto devera ser finalizado até o fim do segundo semestre de 2023.<br>
