@@ -9,10 +9,10 @@ Este projeto de Front-End tem como objetivo criar uma tela personalizada para re
 # ​🛠️​<strong>FERRAMENTAS DO PROJETO</strong>
 
 <p>
-  Repositorio de códigos: GitHub<br>
+  Repositório de códigos: GitHub<br>
   Editor de códigos: Visual Studio Code<br>
   Comunicação: Microsoft Teams, Discord e WhatsApp<br>
-  Site de referencia: https://nimbusmeteorologia.com.br/<br>
+  Site de referência: https://nimbusmeteorologia.com.br/<br>
   Linguagens: HTML, CSS e JavaScript<br>
   Metodologia aplicada: Kanban(Trello) e reunião semanal(weekly)
 </p>
@@ -36,7 +36,7 @@ Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
 
 # <strong>📝 Requisitos do sistema:</strong>
 
-<strong>Requisitos funcionais:</strong>
+<strong>Requisitos Funcionais:</strong>
 <ul>
   <li>RF-1: O sistema deve exportar as informações em um arquivo CSV, PDF ou PNG.</li>
   <li>RF-2: O sistema deve permitir o usuário se logar para acessar a tela com as informações.</li>
@@ -45,7 +45,7 @@ Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
   <li>RF-5: O sistema deve permitir interações com todos os elementos do Dashboard.</li>
 </ul>
 
-<strong>Requisitos não-funcionais:</strong>
+<strong>Requisitos Não-Funcionais:</strong>
 <ul>
   <li>RNF-1: O sistema deve ser multiplataforma.</li>
   <li>RNF-2: O sistema deve criptografar login e senha fornecidos pelo usuário.</li>
@@ -58,7 +58,7 @@ Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
 
 # <strong>👥CONTRIBUIDORES</strong>
 
-Brenda Mendes.<br>
-Ian Esteves.<br>
-Phillipe Secondo.<br>
-João Victor Franco.
+Brenda Mendes<br>
+Ian Esteves<br>
+Phillipe Secondo<br>
+João Victor Franco
