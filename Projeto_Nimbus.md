@@ -1,4 +1,4 @@
-# ⚙️​<strong>PROJETO CRONOS (VERSÃO 1.1)</strong>
+# ⚙️​<strong> PROJETO CRONOS (VERSÃO 1.1)</strong>
 
 Sobre o cliente: A Nimbus é uma construtech focada na gestão de risco climático em canteiros de obras realizando a previsões para avaliar os riscos dessas condições no cronograma de execução, evitando a perda de materiais e auxiliando na segurança dos trabalhadores, tornando a decisão do gestor mais ágil e assertiva, o que gera redução de prejuízos e aumento de eficiência.<br>
 
@@ -6,7 +6,7 @@ Este projeto de Front-End tem como objetivo criar uma tela personalizada para re
 
 ##
 
-# ​🛠️​<strong>FERRAMENTAS DO PROJETO</strong>
+# ​🛠️​<strong> FERRAMENTAS DO PROJETO:</strong>
 
 <p>
   Repositório de códigos: GitHub<br>
@@ -19,7 +19,7 @@ Este projeto de Front-End tem como objetivo criar uma tela personalizada para re
 
 ##
 
-# 🗃️<strong>5W2H</strong>
+# 🗃️<strong> 5W2H:</strong>
 
 Perguntas | Definições
 --------------------------------|------------------------------------------------------------
@@ -56,7 +56,7 @@ Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
 
 ##
 
-# <strong>👥CONTRIBUIDORES</strong>
+# <strong>👥 CONTRIBUIDORES:</strong>
 
 Brenda Mendes<br>
 Ian Esteves<br>
