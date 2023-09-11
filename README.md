@@ -46,3 +46,26 @@ Brenda Mendes<br>
 Ian Esteves<br>
 Phillipe Secondo<br>
 João Victor Franco
+
+##
+
+<strong>5W2H</strong>
+
+##
+
+Quem? Clientes da empresa e usuários internos da Nimbus.
+
+Como?
+
+Quanto?
+
+O que?
+
+Porque?
+
+Onde?
+
+Quando?
+
+
+Página Front End 
