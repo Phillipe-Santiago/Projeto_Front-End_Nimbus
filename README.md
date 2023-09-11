@@ -53,19 +53,18 @@ João Victor Franco
 
 ##
 
-Quem? Clientes da empresa e usuários internos da Nimbus.
+# 5W2H
 
-Como?
-
-Quanto?
-
-O que?
-
-Porque?
-
-Onde?
-
-Quando?
+Perguntas | Definições
+--------------------------------|------------------------------------------------------------
+Quem? | Clientes da empresa e usuários internos da Nimbus.
+O que? | Sistema Web para visualização de dados referentes ao backend.
+Quando? | O projeto devera ser finalizado até o fim do segundo semestre de 2023.
+Onde? | Sistema implementado na Web.
+Por que? | Melhorar a interpretação das previsões, torná-la amigável para dispositivos móveis.
+Quanto? | Sem orçamento determinado no momento.
+Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
+##
 
 
 Página Front End 
