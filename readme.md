@@ -4,8 +4,6 @@ Sobre o cliente: A Nimbus é uma construtech focada na gestão de risco climáti
 
 Este projeto de Front-End tem como objetivo criar uma tela personalizada para receber todos os dados do Back-End e apresentá-los de maneira funcional, interativa, clara e coesa aos funcionários e clientes da empresa. A finalidade é facilitar a visualização e interpretação das previsões climáticas. O projeto é impulsionado pela necessidade de implementar um display mais compacto e responsivo para as informações recebidas dos Back-Ends por meio de Endpoints, que consistem em requisições GET com um corpo em formato JSON ou CSV. Além disso, a aplicação será capaz de exportar esses dados para PDF e CSV. No futuro, está prevista a implementação de uma versão móvel para ampliar a acessibilidade, uma vez que sites responsivos se adaptam ao tamanho das telas, tornando a visualização mais fácil e conveniente em dispositivos como celulares e tablets.<br>
 
-##
-
 # ​🛠️​<strong> FERRAMENTAS DO PROJETO:</strong>
 
 <p>
@@ -16,8 +14,6 @@ Este projeto de Front-End tem como objetivo criar uma tela personalizada para re
   Linguagens: HTML, CSS e JavaScript<br>
   Metodologia aplicada: Kanban(Trello) e reunião semanal(weekly)
 </p>
-
-##
 
 # 🗃️<strong> 5W2H:</strong>
 
@@ -30,8 +26,6 @@ Onde? | Sistema implementado na Web.
 Por que? | Melhorar a interpretação das previsões, torná-la amigável para dispositivos móveis.
 Quanto? | Sem orçamento determinado no momento.
 Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
-
-##
 
 
 # <strong>📝 Requisitos do sistema:</strong>
@@ -53,8 +47,6 @@ Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
   <li>RNF-4: O sistema deve tratar o JSON recebido com os dados.</li>
   <li>RNF-5: O sistema deve estar disponível full-time.</li>
 </ul>
-
-##
 
 # <strong>👥 CONTRIBUIDORES:</strong>
 
