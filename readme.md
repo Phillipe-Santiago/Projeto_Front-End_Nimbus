@@ -36,7 +36,7 @@ Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
   <li>RF-2: O sistema deve permitir o usuário se logar para acessar a tela com as informações.</li>
   <li>RF-3: O sistema deve permitir o usuário inserir os filtros, de sua escolha, a serem analisados.</li>
   <li>RF-4: O sistema deve exibir os dados fornecidos em tabelas, gráficos, listas e mapas.</li>
-  <li>RF-5: O sistema deve permitir interações com todos os elementos do Dashboard(interface gráfica para exibição de listas, tabelas, mapas, calendários entre outros recursos).</li>
+  <li>RF-5: O sistema deve permitir interações com todos os elementos do Dashboard(Interface gráfica para exibição de listas, tabelas, mapas, calendários entre outros recursos).</li>
 </ul>
 
 <strong>Requisitos Não-Funcionais:</strong>
