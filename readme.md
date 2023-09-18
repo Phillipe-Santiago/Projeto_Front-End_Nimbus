@@ -10,9 +10,9 @@ Este projeto de Front-End tem como objetivo criar uma tela personalizada para re
   Repositório de códigos: GitHub<br>
   Editor de códigos: Visual Studio Code<br>
   Comunicação: Microsoft Teams, Discord e WhatsApp<br>
-  Site de referência: https://nimbusmeteorologia.com.br/<br>
   Linguagens: HTML, CSS e JavaScript<br>
-  Metodologia aplicada: Kanban(Trello) e reunião semanal(weekly)
+  Metodologia aplicada: Kanban(Trello) e reunião semanal(weekly)<br>
+  Site de referência: https://nimbusmeteorologia.com.br/
 </p>
 
 # 🗃️<strong> 5W2H:</strong>
