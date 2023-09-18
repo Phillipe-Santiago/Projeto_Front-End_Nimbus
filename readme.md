@@ -22,8 +22,8 @@ Perguntas | Definições
 Quem? | Clientes da empresa e usuários internos da Nimbus.
 O que? | Sistema Web para visualização de dados referentes ao backend.
 Quando? | O projeto devera ser finalizado até o fim do segundo semestre de 2023.
-Onde? | Sistema implementado na Web.
-Por que? | Melhorar a interpretação das previsões, torná-la amigável para dispositivos móveis.
+Onde? | Sistema implementado na Web e futuramente para dispositivos móveis.
+Por que? | Melhorar a apresentação das informações dos dados.
 Quanto? | Tempo investido pela equipe de desenvolvimento e pela equipe Nimbus.
 Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
 
