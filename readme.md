@@ -55,4 +55,4 @@ Ian Esteves<br>
 Phillipe Secondo<br>
 João Victor Franco
 
-[^1]: TO DO: Observações sobre o trabalho aqui !!! (20/09)
+<!-- TO DO: Observações sobre o trabalho aqui !!! (20/09) -->
