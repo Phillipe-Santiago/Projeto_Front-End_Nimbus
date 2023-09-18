@@ -54,3 +54,5 @@ Brenda Mendes<br>
 Ian Esteves<br>
 Phillipe Secondo<br>
 João Victor Franco
+
+[^1]: Observações sobre o trabalho aqui !!!
