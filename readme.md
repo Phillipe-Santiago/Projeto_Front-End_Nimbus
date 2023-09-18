@@ -56,8 +56,7 @@ Phillipe Secondo<br>
 João Victor Franco
 
 <!-- TO DO: Observações sobre o trabalho aqui !!! (20/09) -->
-4* feira
+<!-- 4* feira
 comentário em relação ao primeiro grupo:
 . obrigatório casos de uso do sistema ( o que leva o usuário a utilizar o sistema )
-   . relacionado ao grupo 1 ( interface de uso )
-
+   . relacionado ao grupo 1 ( interface de uso )-->
