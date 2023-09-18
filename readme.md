@@ -42,7 +42,7 @@ Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
 <strong>Requisitos Não-Funcionais:</strong>
 <ul>
   <li>RNF-1: O sistema deve ser multiplataforma.</li>
-  <li>RNF-2: O sistema deve Estar hospedado no GitHub.</li>
+  <li>RNF-2: O sistema deve estar hospedado no GitHub.</li>
   <li>RNF-3: O sistema deve ser responsivo.</li>
   <li>RNF-4: O sistema deve tratar o JSON recebido com os dados.</li>
   <li>RNF-5: O sistema deve estar disponível full-time.</li>
