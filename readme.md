@@ -24,7 +24,7 @@ O que? | Sistema Web para visualização de dados referentes ao backend.
 Quando? | O projeto devera ser finalizado até o fim do segundo semestre de 2023.
 Onde? | Sistema implementado na Web.
 Por que? | Melhorar a interpretação das previsões, torná-la amigável para dispositivos móveis.
-Quanto? | Tempo investido pela equipe.
+Quanto? | Tempo investido pela equipe de desenvolvimento e pela equipe Nimbus.
 Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
 
 
