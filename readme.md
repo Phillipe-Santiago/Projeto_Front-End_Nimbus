@@ -28,7 +28,7 @@ Quanto? | Tempo investido pela equipe.
 Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
 
 
-# <strong>📝 Requisitos do sistema:</strong>
+# <strong>📝 REQUISITOS DO SISTEMA:</strong>
 
 <strong>Requisitos Funcionais:</strong>
 <ul>
