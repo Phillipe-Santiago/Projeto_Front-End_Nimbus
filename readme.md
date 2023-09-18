@@ -1,4 +1,4 @@
-# ⚙️​<strong> PROJETO CRONOS (VERSÃO 1.1)</strong>
+# ⚙️​<strong> PROJETO CRONOS (VERSÃO 1.2)</strong>
 
 Sobre o cliente: A Nimbus é uma construtech focada na gestão de risco climático em canteiros de obras realizando a previsões para avaliar os riscos dessas condições no cronograma de execução, evitando a perda de materiais e auxiliando na segurança dos trabalhadores, tornando a decisão do gestor mais ágil e assertiva, o que gera redução de prejuízos e aumento de eficiência.<br>
 
@@ -24,7 +24,7 @@ O que? | Sistema Web para visualização de dados referentes ao backend.
 Quando? | O projeto devera ser finalizado até o fim do segundo semestre de 2023.
 Onde? | Sistema implementado na Web.
 Por que? | Melhorar a interpretação das previsões, torná-la amigável para dispositivos móveis.
-Quanto? | Sem orçamento determinado no momento.
+Quanto? | Tempo investido pela equipe.
 Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
 
 
@@ -36,13 +36,13 @@ Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
   <li>RF-2: O sistema deve permitir o usuário se logar para acessar a tela com as informações.</li>
   <li>RF-3: O sistema deve permitir o usuário inserir os filtros, de sua escolha, a serem analisados.</li>
   <li>RF-4: O sistema deve exibir os dados fornecidos em tabelas, gráficos, listas e mapas.</li>
-  <li>RF-5: O sistema deve permitir interações com todos os elementos do Dashboard.</li>
+  <li>RF-5: O sistema deve permitir interações com todos os elementos do Dashboard(interface gráfica para exibição de listas, tabelas, mapas, calendários entre outros recursos).</li>
 </ul>
 
 <strong>Requisitos Não-Funcionais:</strong>
 <ul>
   <li>RNF-1: O sistema deve ser multiplataforma.</li>
-  <li>RNF-2: O sistema deve criptografar login e senha fornecidos pelo usuário.</li>
+  <li>RNF-2: O sistema deve Estar hospedado no GitHub.</li>
   <li>RNF-3: O sistema deve ser responsivo.</li>
   <li>RNF-4: O sistema deve tratar o JSON recebido com os dados.</li>
   <li>RNF-5: O sistema deve estar disponível full-time.</li>
