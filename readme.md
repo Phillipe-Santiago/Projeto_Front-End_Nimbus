@@ -12,7 +12,7 @@ Objetivo: Este projeto Front-End tem como objetivo criar uma tela personalizada 
   Comunicação: Microsoft Teams, Discord e WhatsApp<br>
   Linguagens: HTML, CSS e JavaScript<br>
   Metodologia aplicada: Kanban(Trello) e reunião semanal(weekly)<br>
-  Site de referência: https://nimbusmeteorologia.com.br/
+  Site de referência: https://nimbusmeteorologia.com.br
 </p>
 
 # 🗃️<strong> 5W2H:</strong>
