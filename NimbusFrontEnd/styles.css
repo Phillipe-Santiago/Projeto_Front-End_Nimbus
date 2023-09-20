@@ -6,10 +6,11 @@
 .header {
     background-color: #333;
     color: #fff;
-    padding: 20px;
+    padding: 10px;
     font-size: 24px;
     display: flex;
     align-items: center;
+    font-family: fantasy;
 }
 
 .button {
@@ -18,10 +19,15 @@
     color: #ffffff;
     text-decoration: none;
     font-size: 17px;
+    color: rgb(223, 146, 38);
     margin-right: 5px;
     margin-top: 5px;
     margin-bottom: 5px;
     margin-left: 5px;
     justify-content: space-between;
     border-radius: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    position: relative;
+    left: 1030px;
+    bottom: 3px;
 }
