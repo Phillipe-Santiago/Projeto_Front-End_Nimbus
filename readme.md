@@ -54,26 +54,26 @@ Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
 <strong> Casos de uso:</strong>
 
 <strong>Caso de Uso 1: Visualizar pagina inicial </strong>
-    Ator Principal: Usuário
+Ator Principal: Usuário
     Ator secundário: Banco de dados para verificação dos dados cadastrais
-
+<p>
   Fluxo:
     Passo 1: O usuário deverá se logar ao sistema e não falhar as requisições necessárias para o uso do sistema.
-    Ex: Ter uma assinatura ativa(?)
-
-Passo 2: O usuário terá acesso a visualização do mapa no meio da tela com informações meteorológicas genéricas. A sua esquerda (A discutir) havera um menu de seleção para o usuário escolher um uso mais especifico que gostaria de ter ao utilizar o programa.
+      Ex: Ter uma assinatura ativa(?)
+    Passo 2: O usuário terá acesso a visualização do mapa no meio da tela com informações meteorológicas genéricas. A sua esquerda (A discutir) havera um menu de seleção para o usuário escolher um uso mais especifico que gostaria de ter ao utilizar o programa.
+</p>
 
 <strong>Caso de uso 2: Risco de chuva em determinada época (Ex)</strong>
     Ator Principal: Usuário
     Ator secundário: Banco de dados
-
-  Fluxo
+<p>
+Fluxo
     Passo 1:  O usuário selecionara a função "Risco de chuva" no menu previamente citado.
     Passo 2:  O usuário ira inserir a data que gostaria de obter a previsão
     Passo 3: O usuário escolhe o local em que será feita a previsão.
     Passo 4: O site entrega de forma clara e intuitiva a informação que o usuário deseja.
     Passo 5: A direita da tela haverão as informações (relatório) geradas pelo site e imediatamente abaixo do relatório em texto o usuário tera opções de exportação de tal relatório para o formato que o melhor convir. 
-
+</p>
 
 
 
