@@ -51,6 +51,10 @@ Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
   <li>RNF-5: O sistema deve estar disponível full-time.</li>
 </ul>
 
+
+--------------------------------|------------------------------------------------------------
+
+
 <strong> Casos de uso:</strong>
 
 <strong>Caso de Uso 1: Visualizar pagina inicial </strong>
@@ -63,6 +67,8 @@ Ator Principal: Usuário
     Ex: Ter uma assinatura ativa(?)
   <li>Passo 2: O usuário terá acesso a visualização do mapa no meio da tela com informações meteorológicas genéricas. A sua esquerda (A discutir) havera um menu de seleção para o usuário escolher um uso mais especifico que gostaria de ter ao utilizar o programa.</li>
 </ul>
+
+
 
 
 <strong>Caso de uso 2: Risco de chuva em determinada época (Ex)</strong>
