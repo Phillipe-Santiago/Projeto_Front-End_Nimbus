@@ -59,9 +59,9 @@ Ator Principal: Usuário
 
 <strong>Fluxo:</strong>
 <ul>
-  <li> </li>Passo 1: O usuário deverá se logar ao sistema e não falhar as requisições necessárias para o uso do sistema.</li>
+  <li>Passo 1: O usuário deverá se logar ao sistema e não falhar as requisições necessárias para o uso do sistema.</li>
     Ex: Ter uma assinatura ativa(?)
-  <li> </li>Passo 2: O usuário terá acesso a visualização do mapa no meio da tela com informações meteorológicas genéricas. A sua esquerda (A discutir) havera um menu de seleção para o usuário escolher um uso mais especifico que gostaria de ter ao utilizar o programa.</li>
+  <li>Passo 2: O usuário terá acesso a visualização do mapa no meio da tela com informações meteorológicas genéricas. A sua esquerda (A discutir) havera um menu de seleção para o usuário escolher um uso mais especifico que gostaria de ter ao utilizar o programa.</li>
 </ul>
 
 
