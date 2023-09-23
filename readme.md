@@ -66,13 +66,14 @@ Ator Principal: Usuário
 <strong>Caso de uso 2: Risco de chuva em determinada época (Ex)</strong>
     Ator Principal: Usuário
     Ator secundário: Banco de dados
+    
 <p>
 Fluxo
-    Passo 1:  O usuário selecionara a função "Risco de chuva" no menu previamente citado.
-    Passo 2:  O usuário ira inserir a data que gostaria de obter a previsão
-    Passo 3: O usuário escolhe o local em que será feita a previsão.
-    Passo 4: O site entrega de forma clara e intuitiva a informação que o usuário deseja.
-    Passo 5: A direita da tela haverão as informações (relatório) geradas pelo site e imediatamente abaixo do relatório em texto o usuário tera opções de exportação de tal relatório para o formato que o melhor convir. 
+    <li>Passo 1:  O usuário selecionara a função "Risco de chuva" no menu previamente citado.</li>
+    <li>Passo 2:  O usuário ira inserir a data que gostaria de obter a previsão</li>
+    <li>Passo 3: O usuário escolhe o local em que será feita a previsão.</li>
+    <li>Passo 4: O site entrega de forma clara e intuitiva a informação que o usuário deseja.</li>
+    <li>Passo 5: A direita da tela haverão as informações (relatório) geradas pelo site e imediatamente abaixo do relatório em texto o usuário tera opções de exportação de tal relatório para o formato que o melhor convir.</li>
 </p>
 
 
