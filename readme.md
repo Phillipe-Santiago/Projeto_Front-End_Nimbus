@@ -57,7 +57,7 @@ Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
 Ator Principal: Usuário<br>
 Ator secundário: Sistema
 
-Fluxo:
+Fluxo Básico:
 <ul>
   <li>Passo 1: O usuário deverá se logar ao sistema.<br><br></li>
   <li>Passo 2: O usuário terá acesso a visualização do mapa no meio da tela com informações meteorológicas genéricas. A sua esquerda (A discutir) havera um menu de seleção para o usuário escolher um uso mais especifico que gostaria de ter ao utilizar o programa.<br></li>
@@ -67,7 +67,7 @@ Fluxo:
 Ator Principal: Usuário.<br>
 Ator secundário: Sistema.<br>
 
-Fluxo:
+Fluxo Básico:
 
 <ul>
   <li>Passo 1: O usuário selecionara a função "Risco de chuva" no menu previamente citado.<br><br></li>
