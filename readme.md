@@ -46,6 +46,35 @@ Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
   <li>RNF-3: O sistema deve ser responsivo.</li>
   <li>RNF-4: O sistema deve tratar o JSON recebido com os dados.</li>
   <li>RNF-5: O sistema deve estar disponível full-time.</li>
+  <li>RF-6: O sistema deve permitir o usuário a requisitar relatorios de uma estação, data ou local de acordo com os dados previamente coletados.</li>
+  <li>RF-7: O sistema deve ser capaz de notificar o usuário caso haja alguma mudança drástica em seus relatórios previamente fornecidos.</li>
+  <li>RF-8: O sistema deve permitir interações com todos os elementos do Dashboard(Interface gráfica para exibição de listas, tabelas, mapas, calendários entre outros recursos).</li>
+</ul>
+
+# <Strong>📙 CASOS DE USO:</strong>
+
+<strong>◆ Caso de Uso 1 :</strong> Visualizar pagina inicial<br>
+Ator Principal: Usuário<br>
+Ator secundário: Sistema
+
+Fluxo:
+<ul>
+  <li>Passo 1: O usuário deverá se logar ao sistema.<br><br></li>
+  <li>Passo 2: O usuário terá acesso a visualização do mapa no meio da tela com informações meteorológicas genéricas. A sua esquerda (A discutir) havera um menu de seleção para o usuário escolher um uso mais especifico que gostaria de ter ao utilizar o programa.<br></li>
+</ul>
+
+<strong>◆ Caso de uso 2 :</strong> Risco de chuva em determinada época.<br>
+Ator Principal: Usuário.<br>
+Ator secundário: Sistema.<br>
+
+Fluxo:
+
+<ul>
+  <li>Passo 1: O usuário selecionara a função "Risco de chuva" no menu previamente citado.<br><br></li>
+  <li>Passo 2: O usuário ira inserir a data que gostaria de obter a previsão.<br><br></li>
+  <li>Passo 3: O usuário escolhe o local em que será feita a previsão.<br><br></li>
+  <li>Passo 4: O site entrega de forma clara e intuitiva a informação que o usuário deseja.<br><br></li>
+  <li>Passo 5: A direita da tela haverão as informações (relatório) geradas pelo site e imediatamente abaixo do relatório em texto o usuário tera opções de exportação de tal relatório para o formato que escolher.</li>
 </ul>
 
 # <strong>👥 CONTRIBUIDORES:</strong>
