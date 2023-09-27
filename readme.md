@@ -92,4 +92,6 @@ Ian Esteves<br>
 Phillipe Secondo<br>
 João Victor Franco
 
-<!-- TO DO: Observações sobre o trabalho aqui !!! (20/09) -->
+<!-- TO DO: Rever casos de uso
+            Motivo do trab. é ser um HISTORICO
+            Modificar layout das telas(20/09) -->
