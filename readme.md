@@ -51,7 +51,7 @@ Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
   <li>RF-8: O sistema deve permitir interações com todos os elementos do Dashboard(Interface gráfica para exibição de listas, tabelas, mapas, calendários entre outros recursos).</li>
 </ul>
 
-# <Strong>📙 CASOS DE USO:</strong>
+# <Strong>📜 CASOS DE USO:</strong>
 
 <strong>◆ Caso de Uso 1 :</strong> Visualizar pagina inicial<br>
 Ator Principal: Usuário<br>
