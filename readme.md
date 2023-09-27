@@ -83,7 +83,7 @@ Ator Principal: Usuário
   <li>Passo 3: O usuário escolhe o local em que será feita a previsão.</li>
   <li>Passo 4: O site entrega de forma clara e intuitiva a informação que o usuário deseja.</li>
   <li>Passo 5: A direita da tela haverão as informações (relatório) geradas pelo site e imediatamente abaixo do relatório em texto o usuário tera opções de exportação de tal relatório para o formato que o melhor convir.</li>
-</ul>ul>
+</ul>
 
 
 
