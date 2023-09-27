@@ -37,6 +37,9 @@ Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
   <li>RF-3: O sistema deve permitir o usuário inserir os filtros, de sua escolha, a serem analisados.</li>
   <li>RF-4: O sistema deve exibir os dados fornecidos em tabelas, gráficos, listas e mapas.</li>
   <li>RF-5: O sistema deve permitir interações com todos os elementos do Dashboard(Interface gráfica para exibição de listas, tabelas, mapas, calendários entre outros recursos).</li>
+  <li>RF-6: O sistema deve permitir o usuário a requisitar relatorios de uma estação, data ou local de acordo com os dados previamente coletados.</li>
+  <li>RF-7: O sistema deve ser capaz de notificar o usuário caso haja alguma mudança drástica em seus relatórios previamente fornecidos.</li>
+  <li>RF-8: O sistema deve permitir interações com todos os elementos do Dashboard(Interface gráfica para exibição de listas, tabelas, mapas, calendários entre outros recursos).</li>
 </ul>
 
 <strong>Requisitos Não-Funcionais:</strong>
