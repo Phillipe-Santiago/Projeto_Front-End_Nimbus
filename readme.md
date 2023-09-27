@@ -77,6 +77,10 @@ Fluxo:
   <li>Passo 5: A direita da tela haverão as informações (relatório) geradas pelo site e imediatamente abaixo do relatório em texto o usuário tera opções de exportação de tal relatório para o formato que escolher.</li>
 </ul>
 
+# <strong>🖼️ LAYOUT DAS TELAS:</strong>
+<img src='https://github.com/Phillipe-Santiago/Projeto_Front-End_Nimbus/blob/main/App/Hist%C3%B3rico.JPG?raw=true'>
+<img src='https://github.com/Phillipe-Santiago/Projeto_Front-End_Nimbus/blob/main/App/Mapa.JPG?raw=true'>
+
 # <strong>👥 CONTRIBUIDORES:</strong>
 
 Brenda Mendes<br>
