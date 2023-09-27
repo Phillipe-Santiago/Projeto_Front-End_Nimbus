@@ -49,7 +49,7 @@ Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
 </ul>
 
 
-<strong>LAYOUT DAS TELAS:</strong>
+# <strong>LAYOUT DAS TELAS:</strong>
 <img src='https://github.com/Phillipe-Santiago/Projeto_Front-End_Nimbus/blob/main/App/Mapa.JPG?raw=true'>
 <img src='https://github.com/Phillipe-Santiago/Projeto_Front-End_Nimbus/blob/main/App/Hist%C3%B3rico.JPG?raw=true'>
 
