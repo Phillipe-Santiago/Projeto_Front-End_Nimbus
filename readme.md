@@ -59,7 +59,7 @@ Ator secundário: Sistema
 
 Fluxo Básico:
 <ul>
-  <li>Passo 1: O usuário deverá se logar ao sistema.<br><br></li>
+  <li>Passo 1: O usuário deverá se logar ao sistema usando login e senha.<br><br></li>
   <li>Passo 2: O usuário terá acesso a visualização do mapa no meio da tela com informações meteorológicas genéricas. A sua esquerda (A discutir) havera um menu de seleção para o usuário escolher um uso mais especifico que gostaria de ter ao utilizar o programa.<br></li>
 </ul>
 
