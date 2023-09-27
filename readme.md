@@ -55,17 +55,21 @@ Como? | Desenvolvido com as linguagens HTML, CSS e JavaScript.
 
 <strong>◆ Caso de Uso 1 :</strong> Visualizar pagina inicial<br>
 Ator Principal: Usuário<br>
-Ator secundário: Sistema
+Ator secundário: Sistema<br>
+
+Pré-condições: Ter uma conta criada na Nimbus.
 
 Fluxo Básico:
 <ul>
   <li>Passo 1: O usuário deverá se logar ao sistema usando login e senha.<br><br></li>
-  <li>Passo 2: O usuário terá acesso a visualização do mapa no meio da tela com informações meteorológicas genéricas. A sua esquerda (A discutir) havera um menu de seleção para o usuário escolher um uso mais especifico que gostaria de ter ao utilizar o programa.<br></li>
+  <li>Passo 2: O usuário terá acesso a visualização do mapa no meio da tela com informações meteorológicas genéricas. A sua esquerda (A discutir) havera um menu de seleção para o usuário escolher um uso mais especifico que gostaria de ter ao utilizar o programa.<br><br></li>
 </ul>
 
 <strong>◆ Caso de uso 2 :</strong> Risco de chuva em determinada época.<br>
 Ator Principal: Usuário.<br>
 Ator secundário: Sistema.<br>
+
+Pré-condições: Estar logado no sistema.
 
 Fluxo Básico:
 
