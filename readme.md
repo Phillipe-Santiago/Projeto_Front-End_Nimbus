@@ -1,21 +1,22 @@
-# ⚙️​<strong> PROJETO CRONOS (VERSÃO 1.2)</strong>
+# ​<strong>⚙️ PROJETO CRONOS (VERSÃO 1.3)</strong>
 
 Sobre o cliente: A Nimbus é uma construtech focada na gestão de risco climático em canteiros de obras realizando a previsões para avaliar os riscos dessas condições no cronograma de execução, evitando a perda de materiais e auxiliando na segurança dos trabalhadores, tornando a decisão do gestor mais ágil e assertiva, o que gera redução de prejuízos e aumento de eficiência.<br>
 
 Objetivo: Este projeto Front-End tem como objetivo criar uma tela personalizada para receber todos os dados do Back-End e apresentá-los de maneira funcional, interativa, clara e coesa aos funcionários e clientes da empresa. A finalidade é facilitar a visualização e interpretação das previsões climáticas. O projeto é impulsionado pela necessidade de implementar um display mais compacto e responsivo para as informações recebidas dos Back-Ends por meio de Endpoints, que consistem em requisições GET com um corpo em formato JSON ou CSV. Além disso, a aplicação será capaz de exportar esses dados para PDF e CSV. No futuro, está prevista a implementação de uma versão móvel para ampliar a acessibilidade, uma vez que sites responsivos se adaptam ao tamanho das telas, tornando a visualização mais fácil e conveniente em dispositivos como celulares e tablets.<br>
 
-# ​🛠️​<strong> FERRAMENTAS DO PROJETO:</strong>
+# ​<strong>🛠️​ FERRAMENTAS DO PROJETO:</strong>
 
 <p>
   Repositório de códigos: GitHub<br>
   Editor de códigos: Visual Studio Code<br>
   Comunicação: Microsoft Teams, Discord e WhatsApp<br>
-  Linguagens: HTML, CSS e JavaScript<br>
+  Linguagens: HTML, CSS, JavaScript e React<br>
   Metodologia aplicada: Kanban(Trello) e reunião semanal(weekly)<br>
-  Site de referência: https://nimbusmeteorologia.com.br
+  Site de referência: https://nimbusmeteorologia.com.br<br>
+  Material de apoio: <a href="https://github.com/Phillipe-Santiago/Projeto_Front-End_Nimbus/blob/main/Material%20de%20apoio%20Nimbus.pdf">Apresentação Nimbus</a>
 </p>
 
-# 🗃️<strong> 5W2H:</strong>
+# <strong>🗃️ 5W2H:</strong>
 
 Perguntas | Definições
 --------------------------------|------------------------------------------------------------
@@ -82,8 +83,42 @@ Fluxo Básico:
 </ul>
 
 # <strong>🖼️ LAYOUT DAS TELAS:</strong>
-<img src='https://github.com/Phillipe-Santiago/Projeto_Front-End_Nimbus/blob/main/App/Mapa.JPG?raw=true'>
-<img src='https://github.com/Phillipe-Santiago/Projeto_Front-End_Nimbus/blob/main/App/Hist%C3%B3rico.JPG?raw=true'>
+<img src="https://github.com/Phillipe-Santiago/Projeto_Front-End_Nimbus/blob/main/Design%20das%20telas%20do%20app/Mapa.JPG">
+<img src="https://github.com/Phillipe-Santiago/Projeto_Front-End_Nimbus/blob/main/Design%20das%20telas%20do%20app/Hist%C3%B3rico.JPG">
+
+# <strong>💻 API´S PESQUISADAS:</strong>
+<strong>API´s de mapas:</strong>
+<ul>
+  <li><a href="https://www.openstreetmap.org/#map=2/-25.5/-97.5"> OpenStreetMap</a></li>
+  <li><a href="https://www.npmjs.com/package/google-maps-react"> Google Maps React</a></li>
+  <li><a href="https://docs.mapbox.com/mapbox-gl-js/api/"> Mapbox GL JS</a></li>
+</ul>
+
+<strong>Resumo das API´s:</strong>
+<ul>
+  <li>OpenStreetMap é um projeto open-source de mapeamento colaborativo, sendo uma valiosa fonte de informações geográficas. 
+Seus dados são coletados e atualizados por uma comunidade ativa de colaboradores e estão disponíveis para qualquer um.
+O OSM possui integração com o React através do Leaflet, oferecendo poderosos recursos de personalização.</li><br>
+  <li>Biblioteca que simplifica a integração de mapas do Google em aplicativos React. Ela fornece componentes React que facilitam a incorporação de mapas interativos do Google Maps em seus aplicativos, permitindo personalização e controle avançado sobre os mapas e seus elementos. É uma escolha popular para projetos que requerem integração com o Google Maps no ambiente React.</li><br>
+  <li>Biblioteca de mapeamento que permite a criação de mapas interativos e personalizáveis em aplicativos da web. Ela se destaca por oferecer recursos avançados, como visualizações 3D, mapas personalizáveis e suporte a dados geoespaciais. A API é desenvolvida pela Mapbox e é amplamente utilizada para criar experiências de mapeamento interativas e sofisticadas em aplicações web, oferecendo a flexibilidade de personalizar a aparência e o comportamento dos mapas de acordo com as necessidades do projeto. É uma escolha popular para desenvolvedores que buscam criar mapas altamente personalizados e visualmente atraentes em seus aplicativos.</li>
+</ul>
+
+<strong>API´s de gráficos:</strong>
+<ul>
+  <li><a href="https://www.chartjs.org/"> Chart.js</a></li>
+  <li><a href="https://d3js.org/"> D3.js</a></li>
+  <li><a href="https://recharts.org/en-US/"> Recharts</a></li>
+</ul>
+
+<strong>Resumo das API´s:</strong>
+<ul>
+  <li>Biblioteca de gráficos JavaScript que pode ser integrada em projetos React usando pacotes como "react-chartjs-2", oferecendo uma grande variedade de gráficos.
+É uma opção flexível para criar visualizações de dados interativas em aplicativos web React.</li><br>
+  <li>Biblioteca JavaScript para visualização de dados que permite a criação de gráficos interativos e visualizações personalizadas. 
+Ela é altamente flexível e amplamente utilizada em desenvolvimento web.</li><br>
+  <li>Biblioteca para React que simplifica a criação de gráficos interativos, oferecendo uma grande variedade de gráficos. 
+É altamente configurável e adequada para incorporar visualizações de dados dinâmicas em componentes React.</li>
+</ul>
 
 # <strong>👥 CONTRIBUIDORES:</strong>
 
@@ -92,6 +127,4 @@ Ian Esteves<br>
 Phillipe Secondo<br>
 João Victor Franco
 
-<!-- TO DO: Rever casos de uso
-            Motivo do trab. é ser um HISTORICO
-            Modificar layout das telas(20/09) -->
+<!-- TO DO: Observações sobre o trabalho aqui !!! (20/09) -->
