@@ -96,7 +96,7 @@ Fluxo Básico:
 
 <strong>Resumo das API´s:</strong>
 <ul>
-  <li> OpenStreetMap é um projeto open-source de mapeamento colaborativo, sendo uma valiosa fonte de informações geográficas. 
+  <li>OpenStreetMap é um projeto open-source de mapeamento colaborativo, sendo uma valiosa fonte de informações geográficas. 
 Seus dados são coletados e atualizados por uma comunidade ativa de colaboradores e estão disponíveis para qualquer um.
 O OSM possui integração com o React através do Leaflet, oferecendo poderosos recursos de personalização.</li><br>
   <li>Biblioteca que simplifica a integração de mapas do Google em aplicativos React. Ela fornece componentes React que facilitam a incorporação de mapas interativos do Google Maps em seus aplicativos, permitindo personalização e controle avançado sobre os mapas e seus elementos. É uma escolha popular para projetos que requerem integração com o Google Maps no ambiente React.</li><br>
@@ -105,16 +105,19 @@ O OSM possui integração com o React através do Leaflet, oferecendo poderosos 
 
 <strong>API´s de gráficos:</strong>
 <ul>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  <li><a href="https://www.chartjs.org/"> Chart.js</a></li>
+  <li><a href="https://d3js.org/"> D3.js</a></li>
+  <li><a href="https://recharts.org/en-US/"> Recharts</a></li>
 </ul>
 
 <strong>Resumo das API´s:</strong>
 <ul>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  <li>Biblioteca de gráficos JavaScript que pode ser integrada em projetos React usando pacotes como "react-chartjs-2", oferecendo uma grande variedade de gráficos.
+É uma opção flexível para criar visualizações de dados interativas em aplicativos web React.</li><br>
+  <li>Biblioteca JavaScript para visualização de dados que permite a criação de gráficos interativos e visualizações personalizadas. 
+Ela é altamente flexível e amplamente utilizada em desenvolvimento web.</li><br>
+  <li>Biblioteca para React que simplifica a criação de gráficos interativos, oferecendo uma grande variedade de gráficos. 
+É altamente configurável e adequada para incorporar visualizações de dados dinâmicas em componentes React.</li>
 </ul>
 
 # <strong>👥 CONTRIBUIDORES:</strong>
