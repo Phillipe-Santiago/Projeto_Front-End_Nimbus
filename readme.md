@@ -1,4 +1,4 @@
-# ⚙️​<strong> PROJETO CRONOS (VERSÃO 1.2)</strong>
+# ⚙️​<strong> PROJETO CRONOS (VERSÃO 1.3)</strong>
 
 Sobre o cliente: A Nimbus é uma construtech focada na gestão de risco climático em canteiros de obras realizando a previsões para avaliar os riscos dessas condições no cronograma de execução, evitando a perda de materiais e auxiliando na segurança dos trabalhadores, tornando a decisão do gestor mais ágil e assertiva, o que gera redução de prejuízos e aumento de eficiência.<br>
 
@@ -10,9 +10,10 @@ Objetivo: Este projeto Front-End tem como objetivo criar uma tela personalizada 
   Repositório de códigos: GitHub<br>
   Editor de códigos: Visual Studio Code<br>
   Comunicação: Microsoft Teams, Discord e WhatsApp<br>
-  Linguagens: HTML, CSS e JavaScript<br>
+  Linguagens: HTML, CSS, JavaScript e React<br>
   Metodologia aplicada: Kanban(Trello) e reunião semanal(weekly)<br>
-  Site de referência: https://nimbusmeteorologia.com.br
+  Site de referência: https://nimbusmeteorologia.com.br<br>
+  Material de apoio: 
 </p>
 
 # 🗃️<strong> 5W2H:</strong>
@@ -88,9 +89,11 @@ Fluxo Básico:
 # <strong>💻 API´S UTILIZADAS:</strong>
 <strong>API´s de mapas:</strong>
 <ul>
-  <li><a href="https://react-leaflet.js.org/"> React-Leaflet</a></li>
-  <li><a href="https://www.npmjs.com/package/google-maps-react"> Google Maps React</li></a>
+  <li><a href="https://www.openstreetmap.org/#map=2/-25.5/-97.5"> OpenStreetMap</a></li>
+  <li><a href="https://www.npmjs.com/package/google-maps-react"> Google Maps React</a></li>
+  <li><a href="https://docs.mapbox.com/mapbox-gl-js/api/"> Mapbox GL JS</a></li>
 </ul>
+
 # <strong>👥 CONTRIBUIDORES:</strong>
 
 Brenda Mendes<br>
