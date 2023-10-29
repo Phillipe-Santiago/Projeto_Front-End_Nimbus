@@ -85,6 +85,12 @@ Fluxo Básico:
 <img src='https://github.com/Phillipe-Santiago/Projeto_Front-End_Nimbus/blob/main/App/Mapa.JPG?raw=true'>
 <img src='https://github.com/Phillipe-Santiago/Projeto_Front-End_Nimbus/blob/main/App/Hist%C3%B3rico.JPG?raw=true'>
 
+# <strong>💻 API´S UTILIZADAS:</strong>
+<strong>API´s de mapas:</strong>
+<ul>
+  <li><a href="https://react-leaflet.js.org/"> React-Leaflet</a></li>
+  <li><a href="https://www.npmjs.com/package/google-maps-react"> Google Maps React</li></a>
+</ul>
 # <strong>👥 CONTRIBUIDORES:</strong>
 
 Brenda Mendes<br>
