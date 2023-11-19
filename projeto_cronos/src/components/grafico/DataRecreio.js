@@ -2,7 +2,7 @@ export const ReBaData = [
   {
     id: 1,
     year: 2016,
-    userGain: 80000,
+    userGain: 50000,
     userLost: 823,
   },
   {
@@ -14,19 +14,19 @@ export const ReBaData = [
   {
     id: 3,
     year: 2018,
-    userGain: 78888,
+    userGain: 20684,
     userLost: 555,
   },
   {
     id: 4,
     year: 2019,
-    userGain: 90000,
+    userGain: 76023,
     userLost: 4555,
   },
   {
     id: 5,
     year: 2020,
-    userGain: 4300,
+    userGain: 95725,
     userLost: 234,
   },
 ];

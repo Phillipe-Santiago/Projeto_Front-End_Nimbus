@@ -14,13 +14,13 @@ export const CopaData = [
   {
     id: 3,
     year: 2018,
-    userGain: 78888,
+    userGain: 38593,
     userLost: 555,
   },
   {
     id: 4,
     year: 2019,
-    userGain: 90000,
+    userGain: 49378,
     userLost: 4555,
   },
   {
