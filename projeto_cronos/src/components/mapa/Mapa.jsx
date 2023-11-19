@@ -40,7 +40,9 @@ function Mapa() {
             />
 
             {markers.map(marker => (
-                <Marker position={marker.geocode} icon={customIcon}></Marker>
+                <Marker position={marker.geocode} icon={customIcon}>
+                    <Popup>{marker.info}</Popup>
+                </Marker>
             )) }
 
 

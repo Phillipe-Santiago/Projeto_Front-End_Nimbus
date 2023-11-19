@@ -17,7 +17,7 @@ const MainPage = () => {
     ],
   };
 
-const [userData, setUserData] = useState(initialUserData);
+const [userData] = useState(initialUserData);
 
   return (
     <div id='mainPage'>
