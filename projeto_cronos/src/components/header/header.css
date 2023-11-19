@@ -18,7 +18,7 @@ h1 {
     margin-bottom: 0px;
 }
 
-button {
+#button_sn {
     float: right;
     padding: 10px;
     margin: 20px;
@@ -26,6 +26,20 @@ button {
     border: none;
     border-radius: 10px;
     background-color: #EFAD4C;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+#button_filter{
+    float: left;
+    padding: 10px;
+    margin: 20px;
+    margin-top: 34px;
+    border: none;
+    border-radius: 10px;
+    background-color: #446A8E;
     color: #fff;
     cursor: pointer;
     font-size: 16px;

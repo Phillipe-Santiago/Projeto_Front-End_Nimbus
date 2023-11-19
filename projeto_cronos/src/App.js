@@ -1,25 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import SobreNos from './pages/SobreNos';
+import MainPage from './pages/MainPage';
+import {createBrowserRouter, RouterProvider} from 'react-router-dom';
+import React from 'react';
+import ReactDOM from 'react-dom/client'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
 
-export default App;
+
+const router = createBrowserRouter([
+  {
+    path: "sobrenos",
+    element: <SobreNos/>
+  },
+  {
+    path: "principal",
+    element: <MainPage/>
+  }
+])
+
+ReactDOM.createRoot(document.getElementById("root")).render(
+  <React.StrictMode>
+    <RouterProvider router={router}/>
+  </React.StrictMode>
+)
+
