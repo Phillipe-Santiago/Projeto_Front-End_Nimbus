@@ -1,0 +1,7 @@
+#mapa {
+    position: absolute;
+    top: 80px; /* Ajuste este valor conforme necessário */
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+}
