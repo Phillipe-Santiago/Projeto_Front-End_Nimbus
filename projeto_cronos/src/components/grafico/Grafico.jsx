@@ -13,7 +13,7 @@ const Grafico = ({ selectedDataset }) => {
     labels: CopaData.map((data) => data.year),
     datasets: [
       {
-        label: "Users Gained",
+        label: "Precipitação",
         data: CopaData.map((data) => data.userGain),
         backgroundColor: [ "#EFAD4C" ],
       },
@@ -24,7 +24,7 @@ const Grafico = ({ selectedDataset }) => {
     labels: JdOcData.map((data) => data.year),
     datasets: [
       {
-        label: "Users Gained",
+        label: "Precipitação",
         data: JdOcData.map((data) => data.userGain),
       },
     ],
@@ -34,7 +34,7 @@ const Grafico = ({ selectedDataset }) => {
     labels: TijuData.map((data) => data.year),
     datasets: [
       {
-        label: "Users Gained",
+        label: "Precipitação",
         data: TijuData.map((data) => data.userGain),
       },
     ],
@@ -44,7 +44,7 @@ const Grafico = ({ selectedDataset }) => {
     labels: ReBaData.map((data) => data.year),
     datasets: [
       {
-        label: "Users Gained",
+        label: "Precipitação",
         data: ReBaData.map((data) => data.userGain),
       },
     ],
