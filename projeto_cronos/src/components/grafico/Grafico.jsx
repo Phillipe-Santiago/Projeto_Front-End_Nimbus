@@ -15,7 +15,6 @@ const Grafico = ({ selectedDataset }) => {
       {
         label: "Users Gained",
         data: CopaData.map((data) => data.userGain),
-        backgroundColor: [ "#EFAD4C" ],
       },
     ],
   });

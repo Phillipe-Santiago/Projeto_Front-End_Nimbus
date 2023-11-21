@@ -1,5 +1,5 @@
+import { Link } from "react-router-dom";
 import "./header.css";
-import React, { useState } from 'react';
 
 
 const Header = () => {
@@ -9,8 +9,9 @@ const Header = () => {
             <div>
                 <button id="button_filter">Filtrar</button>
             </div>
-            <button id='button_sn' onclick="window.location.href=https://www.youtube.com">Sobre Nós</button>
-
+            <Link to="sobrenos">
+                <button id='button_sn'>Sobre Nós</button>
+            </Link>
         </div>
     )
 }
