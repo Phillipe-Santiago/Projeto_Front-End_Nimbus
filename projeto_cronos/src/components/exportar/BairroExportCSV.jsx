@@ -6,10 +6,8 @@ const BairroExportCSV = ({ bairroName, bairroData }) => {
   const [csvData, setCsvData] = useState([]);
 
   useEffect(() => {
-    // Converte os dados do bairro em formato CSV
     const csvString = Papa.unparse(bairroData);
 
-    // Atualiza o estado com os dados CSV
     setCsvData(csvString);
   }, [bairroData]);
 
@@ -30,7 +28,7 @@ const BairroExportCSV = ({ bairroName, bairroData }) => {
 
   return (
     <div>
-      <h2>Informações meteorológicas de {bairroName}</h2>
+      <h2>Informações meteorológicas {bairroName}</h2>
       <button onClick={handleDownloadCSV}>Baixar CSV</button>
     </div>
   );

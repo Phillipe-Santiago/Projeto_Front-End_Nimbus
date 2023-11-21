@@ -70,11 +70,30 @@ const Grafico = ({ selectedDataset }) => {
     }
   };
 
+  const getBairroData = () => {
+    switch (selectedDataset) {
+      case 'Copacabana':
+        return CopaData;
+
+      case 'Jardim Oceânico':
+        return JdOcData;
+
+      case 'Tijuca':
+        return TijuData;
+
+      case 'Recreio dos Bandeirantes':
+        return ReBaData;
+
+      default:
+        return CopaData;
+    }
+  };
+
   return (
     <div id="grafico">
       <Bar data={getChartData()} />
       <div>
-          <BairroExportCSV bairroName="Copacabana" bairroData={CopaData} />
+          <BairroExportCSV bairroName={selectedDataset} bairroData={getBairroData()} />
         </div>
     </div>
   );

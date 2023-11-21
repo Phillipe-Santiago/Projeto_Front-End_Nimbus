@@ -56,26 +56,3 @@ function Mapa({ onMarkerClick }) {
 }
 
 export default Mapa;
-
-/*function Mapa() {
-    return (
-        <div id='mapa'>
-        <MapContainer center = {center} zoom={10} style={{width: '100%', height: '60vh'}}>
-
-            <TileLayer attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-            url="https://tile.openstreetmap.de/{z}/{x}/{y}.png"
-            />
-
-            {markers.map(marker => (
-                <Marker position={marker.geocode} icon={customIcon}>
-                    <Popup>{marker.info}</Popup>
-                </Marker>
-            ))}
-
-
-        </MapContainer>
-        </div>
-    )
-}*/
-
-
