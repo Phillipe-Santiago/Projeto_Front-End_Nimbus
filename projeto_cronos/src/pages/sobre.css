@@ -1,0 +1,28 @@
+#CardContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 93.8vh;
+    background-color: #EFAD4C;
+}
+
+#Card {
+    width: 200px;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #333
+}
+
+#CardImage {
+    width: 100%;
+    border-radius: 20px;
+}
+
+#CardDescription {
+    margin-top: 10px;
+    color: white;
+}
