@@ -1,8 +1,7 @@
 #grafico {
-    max-width: 800px;
-    width: 100%;
-    margin: 0 auto;
-    margin-top: 650px;
+    max-width: 100%;
+    margin: auto;
+    margin-top: 450px;
     margin-left: 0%;
     padding: 40px;
 }
