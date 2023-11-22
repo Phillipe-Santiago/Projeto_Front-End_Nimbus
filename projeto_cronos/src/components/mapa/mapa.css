@@ -5,3 +5,10 @@
     transform: translateX(-50%);
     width: 100%;
 }
+
+@media (max-width: 768px) {
+    #mapa {
+        top: 0px;
+    }
+  }
+
