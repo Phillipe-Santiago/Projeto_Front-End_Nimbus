@@ -16,7 +16,7 @@ const SobreNos = () => {
                     <img className = 'CardImage' id ='CardImage' src={Ian} />
                     <div className = 'CardDescription' id ='CardDescription'>
                         <strong>Ian Esteves Amaral Francisco</strong><br /><br />
-                        Ciência de Dados e Inteligência artificial.
+                        Ciência de Dados e Inteligência artificial
                     </div>
                 </div>
 
@@ -31,8 +31,8 @@ const SobreNos = () => {
                 <div className = 'Card' id='Card'>
                     <img className = 'CardImage' id ='CardImage' src={Brenda} />
                     <div className = 'CardDescription' id ='CardDescription'>
-                        <strong>Brenda Mendes</strong> <br /><br />
-                        Ciência de Dados
+                        <strong>Brenda Mendes Araujo</strong> <br /><br />
+                        Ciência de Dados e Inteligência artificial
                     </div>
                 </div>
 
@@ -40,7 +40,7 @@ const SobreNos = () => {
                     <img className = 'CardImage' id ='CardImage' src={JV} />
                     <div className = 'CardDescription' id ='CardDescription'>
                         <strong>João Victor Franco da Costa</strong><br /><br />
-                        Ciência de Dados e Inteligência artificial.
+                        Ciência de Dados e Inteligência artificial
                     </div>
                 </div>
             </div>
