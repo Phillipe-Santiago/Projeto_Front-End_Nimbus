@@ -85,12 +85,12 @@ const markers = [
 ];
 
 const defaultIcon = new Icon({
-  iconUrl: 'https://cdn-icons-png.flaticon.com/512/252/252025.png',
+  iconUrl: 'https://cdn-icons-png.flaticon.com/512/10542/10542406.png',
   iconSize: [38, 38],
 });
 
 const selectedIcon = new Icon({
-  iconUrl: 'https://cdn-icons-png.flaticon.com/512/10542/10542406.png',
+  iconUrl: 'https://cdn-icons-png.flaticon.com/512/727/727606.png',
   iconSize: [38, 38],
 });
 
