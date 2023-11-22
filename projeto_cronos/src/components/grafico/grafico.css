@@ -1,8 +1,16 @@
 #grafico {
+    width: 600px;
     max-width: 100%;
     margin: auto;
-    margin-top: 450px;
+    margin-top: 550px;
     margin-left: 0%;
     padding: 40px;
 }
+
+  @media (max-width: 768px) {
+    #grafico {
+        max-width: 310px;
+        margin-top: 300px;
+    }
+  }
 

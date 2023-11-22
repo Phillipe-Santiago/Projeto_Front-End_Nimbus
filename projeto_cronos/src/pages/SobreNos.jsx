@@ -16,7 +16,7 @@ const SobreNos = () => {
             <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"/>
 
             <div id='header'>
-                <h1 id="cabecalho">BREWTECH</h1>
+                <h1 id="cabecalho">BrewTech</h1>
                 <Link to="/">
                     <button id='button_voltar'>Voltar</button>
                 </Link>

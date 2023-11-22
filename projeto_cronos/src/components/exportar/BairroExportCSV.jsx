@@ -28,7 +28,6 @@ const BairroExportCSV = ({ bairroName, bairroData }) => {
 
   return (
     <div>
-      <h2>Informações meteorológicas {bairroName}</h2>
       <button onClick={handleDownloadCSV}>Baixar CSV</button>
     </div>
   );
