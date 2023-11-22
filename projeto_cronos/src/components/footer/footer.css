@@ -16,6 +16,7 @@
 
   @media (max-width: 768px) {
     #footer {
-        position: fixed;
+        top: 40px;
+        height: 48px;
       }
   }
