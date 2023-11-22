@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/static/css/main.f384fe29.css",
-    "main.js": "/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/static/js/main.042580e2.js",
-    "static/js/498.3825b1dd.chunk.js": "/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/static/js/498.3825b1dd.chunk.js",
-    "static/js/703.310fba56.chunk.js": "/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/static/js/703.310fba56.chunk.js",
-    "static/js/198.27e8edbc.chunk.js": "/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/static/js/198.27e8edbc.chunk.js",
-    "static/js/787.f3d0adbe.chunk.js": "/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/static/js/787.f3d0adbe.chunk.js",
-    "static/media/Ian_Esteves_foto.jpeg": "/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/static/media/Ian_Esteves_foto.8b13fadf1698d61fa54d.jpeg",
-    "static/media/Phillipe_Secondo_foto.jpeg": "/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/static/media/Phillipe_Secondo_foto.fa8bdd4456f0b6954af1.jpeg",
-    "static/media/Joao_Victor_foto.jpeg": "/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/static/media/Joao_Victor_foto.6f8f2eb6e2f020ec6003.jpeg",
-    "static/media/Brenda_foto.jpeg": "/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/static/media/Brenda_foto.3df63b8ad92a884a568a.jpeg",
-    "index.html": "/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/index.html",
-    "main.f384fe29.css.map": "/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/static/css/main.f384fe29.css.map",
-    "main.042580e2.js.map": "/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/static/js/main.042580e2.js.map",
-    "498.3825b1dd.chunk.js.map": "/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/static/js/498.3825b1dd.chunk.js.map",
-    "703.310fba56.chunk.js.map": "/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/static/js/703.310fba56.chunk.js.map",
-    "198.27e8edbc.chunk.js.map": "/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/static/js/198.27e8edbc.chunk.js.map",
-    "787.f3d0adbe.chunk.js.map": "/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/static/js/787.f3d0adbe.chunk.js.map"
+    "main.css": "/Phillipe-Santiago/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/src/static/css/main.f384fe29.css",
+    "main.js": "/Phillipe-Santiago/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/src/static/js/main.583694c2.js",
+    "static/js/498.3825b1dd.chunk.js": "/Phillipe-Santiago/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/src/static/js/498.3825b1dd.chunk.js",
+    "static/js/703.310fba56.chunk.js": "/Phillipe-Santiago/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/src/static/js/703.310fba56.chunk.js",
+    "static/js/198.27e8edbc.chunk.js": "/Phillipe-Santiago/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/src/static/js/198.27e8edbc.chunk.js",
+    "static/js/787.f3d0adbe.chunk.js": "/Phillipe-Santiago/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/src/static/js/787.f3d0adbe.chunk.js",
+    "static/media/Ian_Esteves_foto.jpeg": "/Phillipe-Santiago/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/src/static/media/Ian_Esteves_foto.8b13fadf1698d61fa54d.jpeg",
+    "static/media/Phillipe_Secondo_foto.jpeg": "/Phillipe-Santiago/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/src/static/media/Phillipe_Secondo_foto.fa8bdd4456f0b6954af1.jpeg",
+    "static/media/Joao_Victor_foto.jpeg": "/Phillipe-Santiago/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/src/static/media/Joao_Victor_foto.6f8f2eb6e2f020ec6003.jpeg",
+    "static/media/Brenda_foto.jpeg": "/Phillipe-Santiago/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/src/static/media/Brenda_foto.3df63b8ad92a884a568a.jpeg",
+    "index.html": "/Phillipe-Santiago/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/src/index.html",
+    "main.f384fe29.css.map": "/Phillipe-Santiago/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/src/static/css/main.f384fe29.css.map",
+    "main.583694c2.js.map": "/Phillipe-Santiago/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/src/static/js/main.583694c2.js.map",
+    "498.3825b1dd.chunk.js.map": "/Phillipe-Santiago/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/src/static/js/498.3825b1dd.chunk.js.map",
+    "703.310fba56.chunk.js.map": "/Phillipe-Santiago/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/src/static/js/703.310fba56.chunk.js.map",
+    "198.27e8edbc.chunk.js.map": "/Phillipe-Santiago/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/src/static/js/198.27e8edbc.chunk.js.map",
+    "787.f3d0adbe.chunk.js.map": "/Phillipe-Santiago/Projeto_Front-End_Nimbus/tree/main/projeto_cronos/src/static/js/787.f3d0adbe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f384fe29.css",
-    "static/js/main.042580e2.js"
+    "static/js/main.583694c2.js"
   ]
 }
