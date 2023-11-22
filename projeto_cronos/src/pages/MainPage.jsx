@@ -17,6 +17,7 @@ const MainPage = () => {
       <div id='conteudo'>
         <div>
           <Mapa onMarkerClick={handleMarkerClick} />
+          <button id="button_filter">Filtrar</button>
         </div>
         <div>
           <Grafico selectedDataset={selectedDataset} />
@@ -25,7 +26,7 @@ const MainPage = () => {
       <Header />
       <Footer />
     </div>
-    
+
   );
 };
 
