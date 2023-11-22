@@ -11,3 +11,12 @@
     font-size: 25px;
     transition: background-color 0.3s ease;
 }
+
+#mainPage {
+}
+
+@media (max-width: 768px) {
+    #conteudo {
+        top: 500px;
+    }
+  }

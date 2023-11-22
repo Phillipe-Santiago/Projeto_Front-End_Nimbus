@@ -94,7 +94,7 @@ const Grafico = ({ selectedDataset }) => {
     <div id="grafico">
       <Bar data={getChartData()} />
       <div>
-          <h2>Informações meteorológicas {selectedDataset}</h2>
+          <h2>Histórico meteorológico {selectedDataset}</h2>
           <BairroExportCSV bairroName={selectedDataset} bairroData={getBairroData()} />
           <PdfGenerator dataset={getBairroData()} />
         </div>
