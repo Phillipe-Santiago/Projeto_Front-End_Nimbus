@@ -11,7 +11,7 @@ Objetivo: Este projeto Front-End tem como objetivo criar uma tela personalizada 
   Editor de códigos: Visual Studio Code<br>
   Comunicação: Microsoft Teams, Discord e WhatsApp<br>
   Linguagens: HTML, CSS, JavaScript e React<br>
-  Metodologia aplicada:<a href"https://www.notion.so/8de07d383ad342f2b968928d664f0297?v=3416a4c5d9ff4ea2bc14437e467fdd39&pvs=4">Notion</a> e reunião semanal(weekly)<br>
+  Metodologia aplicada:<a href="https://www.notion.so/8de07d383ad342f2b968928d664f0297?v=3416a4c5d9ff4ea2bc14437e467fdd39&pvs=4">Notion</a> e reunião semanal(weekly)<br>
   Site de referência: https://nimbusmeteorologia.com.br<br>
   Material de apoio: <a href="https://github.com/Phillipe-Santiago/Projeto_Front-End_Nimbus/blob/main/Material%20de%20apoio%20Nimbus.pdf">Apresentação Nimbus</a><br>
   Apresentação: <a href="https://www.canva.com/design/DAFnz_UbvBk/WiAWrvJfpyI2TlkvcaSnoQ/edit?utm_content=DAFnz_UbvBk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Canva</a>
