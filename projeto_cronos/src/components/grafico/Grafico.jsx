@@ -6,6 +6,7 @@ import { TijuData } from "./DataTijuca";
 import { ReBaData } from "./DataRecreio";
 import { JdOcData } from "./DataJdOceanico";
 import BairroExportCSV from '../exportar/BairroExportCSV';
+import PdfGenerator from '../exportar/BairroExportPDF';
 import "./grafico.css";
 
 
@@ -93,7 +94,9 @@ const Grafico = ({ selectedDataset }) => {
     <div id="grafico">
       <Bar data={getChartData()} />
       <div>
+          <h2>Informações meteorológicas {selectedDataset}</h2>
           <BairroExportCSV bairroName={selectedDataset} bairroData={getBairroData()} />
+          <PdfGenerator dataset={getBairroData()} />
         </div>
     </div>
   );

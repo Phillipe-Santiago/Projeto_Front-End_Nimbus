@@ -26,7 +26,7 @@ export const ReBaData = [
   {
     id: 5,
     year: 2020,
-    userGain: 95725,
+    userGain: 58725,
     userLost: 234,
   },
 ];

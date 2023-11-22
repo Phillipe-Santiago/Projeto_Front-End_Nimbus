@@ -39,7 +39,7 @@ function Mapa({ onMarkerClick }) {
 
   return (
     <div id='mapa'>
-      <MapContainer center={center} zoom={10} style={{ width: '100%', height: '48vh'}}>
+      <MapContainer center={center} zoom={10} style={{ width: '100%', height: '45vh'}}>
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           url="https://tile.openstreetmap.de/{z}/{x}/{y}.png"
