@@ -32,19 +32,6 @@ h1 {
     transition: background-color 0.3s ease;
 }
 
-#button_filter{
-    float: left;
-    padding: 10px;
-    margin: 15px;
-    margin-top: 5px;
-    border: none;
-    border-radius: 10px;
-    background-color: #446A8E;
-    color: #fff;
-    cursor: pointer;
-    font-size: 25px;
-    transition: background-color 0.3s ease;
-}
 
 button:hover {
     background-color: #d8942e;
