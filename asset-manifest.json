@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Projeto_Front-End_Nimbus/static/css/main.f384fe29.css",
-    "main.js": "/Projeto_Front-End_Nimbus/static/js/main.c2c4217b.js",
-    "static/js/498.3a531231.chunk.js": "/Projeto_Front-End_Nimbus/static/js/498.3a531231.chunk.js",
-    "static/js/703.1bd46822.chunk.js": "/Projeto_Front-End_Nimbus/static/js/703.1bd46822.chunk.js",
-    "static/js/198.bf6dac71.chunk.js": "/Projeto_Front-End_Nimbus/static/js/198.bf6dac71.chunk.js",
-    "static/js/787.86712dc1.chunk.js": "/Projeto_Front-End_Nimbus/static/js/787.86712dc1.chunk.js",
-    "static/media/Ian_Esteves_foto.jpeg": "/Projeto_Front-End_Nimbus/static/media/Ian_Esteves_foto.8b13fadf1698d61fa54d.jpeg",
-    "static/media/Phillipe_Secondo_foto.jpeg": "/Projeto_Front-End_Nimbus/static/media/Phillipe_Secondo_foto.fa8bdd4456f0b6954af1.jpeg",
-    "static/media/Joao_Victor_foto.jpeg": "/Projeto_Front-End_Nimbus/static/media/Joao_Victor_foto.6f8f2eb6e2f020ec6003.jpeg",
-    "static/media/Brenda_foto.jpeg": "/Projeto_Front-End_Nimbus/static/media/Brenda_foto.3df63b8ad92a884a568a.jpeg",
-    "index.html": "/Projeto_Front-End_Nimbus/index.html",
-    "main.f384fe29.css.map": "/Projeto_Front-End_Nimbus/static/css/main.f384fe29.css.map",
-    "main.c2c4217b.js.map": "/Projeto_Front-End_Nimbus/static/js/main.c2c4217b.js.map",
-    "498.3a531231.chunk.js.map": "/Projeto_Front-End_Nimbus/static/js/498.3a531231.chunk.js.map",
-    "703.1bd46822.chunk.js.map": "/Projeto_Front-End_Nimbus/static/js/703.1bd46822.chunk.js.map",
-    "198.bf6dac71.chunk.js.map": "/Projeto_Front-End_Nimbus/static/js/198.bf6dac71.chunk.js.map",
-    "787.86712dc1.chunk.js.map": "/Projeto_Front-End_Nimbus/static/js/787.86712dc1.chunk.js.map"
+    "main.css": "/projeto_cronos/static/css/main.f384fe29.css",
+    "main.js": "/projeto_cronos/static/js/main.0b09c6e1.js",
+    "static/js/498.3825b1dd.chunk.js": "/projeto_cronos/static/js/498.3825b1dd.chunk.js",
+    "static/js/703.310fba56.chunk.js": "/projeto_cronos/static/js/703.310fba56.chunk.js",
+    "static/js/198.27e8edbc.chunk.js": "/projeto_cronos/static/js/198.27e8edbc.chunk.js",
+    "static/js/787.f3d0adbe.chunk.js": "/projeto_cronos/static/js/787.f3d0adbe.chunk.js",
+    "static/media/Ian_Esteves_foto.jpeg": "/projeto_cronos/static/media/Ian_Esteves_foto.8b13fadf1698d61fa54d.jpeg",
+    "static/media/Phillipe_Secondo_foto.jpeg": "/projeto_cronos/static/media/Phillipe_Secondo_foto.fa8bdd4456f0b6954af1.jpeg",
+    "static/media/Joao_Victor_foto.jpeg": "/projeto_cronos/static/media/Joao_Victor_foto.6f8f2eb6e2f020ec6003.jpeg",
+    "static/media/Brenda_foto.jpeg": "/projeto_cronos/static/media/Brenda_foto.3df63b8ad92a884a568a.jpeg",
+    "index.html": "/projeto_cronos/index.html",
+    "main.f384fe29.css.map": "/projeto_cronos/static/css/main.f384fe29.css.map",
+    "main.0b09c6e1.js.map": "/projeto_cronos/static/js/main.0b09c6e1.js.map",
+    "498.3825b1dd.chunk.js.map": "/projeto_cronos/static/js/498.3825b1dd.chunk.js.map",
+    "703.310fba56.chunk.js.map": "/projeto_cronos/static/js/703.310fba56.chunk.js.map",
+    "198.27e8edbc.chunk.js.map": "/projeto_cronos/static/js/198.27e8edbc.chunk.js.map",
+    "787.f3d0adbe.chunk.js.map": "/projeto_cronos/static/js/787.f3d0adbe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f384fe29.css",
-    "static/js/main.c2c4217b.js"
+    "static/js/main.0b09c6e1.js"
   ]
 }
