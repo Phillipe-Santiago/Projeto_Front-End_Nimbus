@@ -83,7 +83,7 @@ Fluxo Básico:
 </ul>
 
 # <strong>🖼️ LAYOUT DAS TELAS:</strong>
-<img src="https://github.com/Phillipe-Santiago/Projeto_Front-End_Nimbus/blob/main/Design%20das%20telas%20do%20app/Mapa.JPG">
+<img src="Design das telas do app/Histórico.JPG">
 <img src="https://github.com/Phillipe-Santiago/Projeto_Front-End_Nimbus/blob/main/Design%20das%20telas%20do%20app/Hist%C3%B3rico.JPG">
 
 # <strong>💻 API´S PESQUISADAS:</strong>
